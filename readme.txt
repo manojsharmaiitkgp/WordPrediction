@@ -1,0 +1,1 @@
+uncompress the 7zip at "PredictiveKeyboard\bin\Debug\File4ACM\data" place and then run the application

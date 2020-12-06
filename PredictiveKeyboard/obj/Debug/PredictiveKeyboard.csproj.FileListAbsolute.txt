@@ -1,0 +1,115 @@
+C:\Documents and Settings\Manoj\My Documents\Visual Studio 2008\Projects\PredictiveKeyboard\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+C:\Documents and Settings\Manoj\My Documents\Visual Studio 2008\Projects\PredictiveKeyboard\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+C:\Documents and Settings\Manoj\My Documents\Visual Studio 2008\Projects\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Manoj\My Documents\Visual Studio 2008\Projects\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+C:\Documents and Settings\Manoj\My Documents\Visual Studio 2008\Projects\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+C:\Documents and Settings\Manoj\My Documents\Visual Studio 2008\Projects\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\Manoj\My Documents\Visual Studio 2008\Projects\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+C:\Documents and Settings\Manoj\My Documents\Visual Studio 2008\Projects\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+D:\Project\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+D:\Project\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+D:\Project\PredictiveKeyboard\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+D:\Project\PredictiveKeyboard\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+D:\Project\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+D:\Project\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+D:\Project\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache
+E:\all important material\anmol\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+E:\all important material\anmol\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+E:\all important material\anmol\PredictiveKeyboard\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+E:\all important material\anmol\PredictiveKeyboard\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+E:\all important material\anmol\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+E:\all important material\anmol\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+E:\all important material\anmol\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+E:\all important material\anmol\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.creatingConfusionMatrix.resources
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form2.resources
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.mobileInterface.resources
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.frmCount.resources
+D:\anmol_manoj\PredictiveKeyboard\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.logAnalysis.resources
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.creatingConfusionMatrix.resources
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form2.resources
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.frmCount.resources
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.logAnalysis.resources
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.mobileInterface.resources
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+D:\anmol_manoj\simulation_error\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.creatingConfusionMatrix.resources
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form2.resources
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.frmCount.resources
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.logAnalysis.resources
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.mobileInterface.resources
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+D:\anmol_manoj\simulation_error\RunSimulation\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.creatingConfusionMatrix.resources
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form2.resources
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.frmCount.resources
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.logAnalysis.resources
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.mobileInterface.resources
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\Adding Local Data & LRU\RunSimulationLRU\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.creatingConfusionMatrix.resources
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form2.resources
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.frmCount.resources
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.logAnalysis.resources
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.mobileInterface.resources
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+D:\anmol_manoj\after LRU modyfy layout\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.creatingConfusionMatrix.resources
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form2.resources
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.frmCount.resources
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.logAnalysis.resources
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.mobileInterface.resources
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+D:\anmol_manoj\adding Puncutation\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.exe
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\bin\Debug\PredictiveKeyboard.pdb
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\ResolveAssemblyReference.cache
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.creatingConfusionMatrix.resources
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form1.resources
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Form2.resources
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.frmCount.resources
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.logAnalysis.resources
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.mobileInterface.resources
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.Properties.Resources.resources
+D:\anmol_manoj\Final_hIndia\RunSimulationLRU\PredictiveKeyboard\obj\Debug\PredictiveKeyboard.csproj.GenerateResource.Cache

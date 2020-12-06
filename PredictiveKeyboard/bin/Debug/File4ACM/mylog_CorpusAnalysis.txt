@@ -1,0 +1,76 @@
+
+ErrorType0	WS:	7	H1	36.09	90.51	01.91	
+ErrorType0	WS:	7	H2	34.76	89.40	02.02	
+ErrorType0	WS:	7	H3	50.71	97.81	01.58	
+ErrorType0	WS:	7	H4	42.34	93.60	01.67	
+ErrorType0	WS:	7	H5	69.67	98.05	00.55	
+
+ErrorType1	WS:	7	H1	33.36	85.91	02.08	
+ErrorType1	WS:	7	H2	32.20	84.68	02.18	
+ErrorType1	WS:	7	H3	48.76	95.44	01.70	
+ErrorType1	WS:	7	H4	37.94	85.79	01.94	
+ErrorType1	WS:	7	H5	67.45	96.53	00.68	
+
+ErrorType2	WS:	7	H1	34.69	88.48	01.99	
+ErrorType2	WS:	7	H2	33.41	87.43	02.10	
+ErrorType2	WS:	7	H3	49.72	97.27	01.63	
+ErrorType2	WS:	7	H4	41.13	92.42	01.73	
+ErrorType2	WS:	7	H5	69.24	97.94	00.57	
+
+ErrorType3	WS:	7	H1	35.78	90.18	01.93	
+ErrorType3	WS:	7	H2	34.31	88.57	02.05	
+ErrorType3	WS:	7	H3	50.12	97.77	01.61	
+ErrorType3	WS:	7	H4	41.89	93.50	01.69	
+ErrorType3	WS:	7	H5	69.60	98.05	00.55	
+
+ErrorType4	WS:	7	H1	36.08	90.50	01.91	
+ErrorType4	WS:	7	H2	34.76	89.40	02.02	
+ErrorType4	WS:	7	H3	50.64	97.76	01.58	
+ErrorType4	WS:	7	H4	42.32	93.60	01.67	
+ErrorType4	WS:	7	H5	69.65	98.05	00.55	
+
+ErrorType5	WS:	7	H1	36.09	90.51	01.91	
+ErrorType5	WS:	7	H2	34.76	89.40	02.02	
+ErrorType5	WS:	7	H3	50.70	97.81	01.58	
+ErrorType5	WS:	7	H4	42.34	93.60	01.67	
+ErrorType5	WS:	7	H5	69.66	98.05	00.55	
+
+ErrorTypep2	WS:	7	H1	34.69	88.48	01.99	
+
+ErrorTypep2	WS:	7	H2	33.41	87.43	02.10	
+
+ErrorTypep2	WS:	7	H3	49.72	97.27	01.63	
+
+ErrorTypep2	WS:	7	H4	41.13	92.42	01.73	
+
+ErrorTypep2	WS:	7	H5	69.24	97.94	00.57	
+
+ErrorTypep3	WS:	7	H1	35.78	90.18	01.93	
+
+ErrorTypep3	WS:	7	H2	34.31	88.57	02.05	
+
+ErrorTypep3	WS:	7	H3	50.12	97.77	01.61	
+
+ErrorTypep3	WS:	7	H4	41.89	93.50	01.69	
+
+ErrorTypep3	WS:	7	H5	69.60	98.05	00.55	
+
+ErrorTypep4	WS:	7	H1	36.08	90.50	01.91	
+
+ErrorTypep4	WS:	7	H2	34.76	89.40	02.02	
+
+ErrorTypep4	WS:	7	H3	50.64	97.76	01.58	
+
+ErrorTypep4	WS:	7	H4	42.32	93.60	01.67	
+
+ErrorTypep4	WS:	7	H5	69.65	98.05	00.55	
+
+ErrorTypep5	WS:	7	H1	36.09	90.51	01.91	
+
+ErrorTypep5	WS:	7	H2	34.76	89.40	02.02	
+
+ErrorTypep5	WS:	7	H3	50.70	97.81	01.58	
+
+ErrorTypep5	WS:	7	H4	42.34	93.60	01.67	
+
+ErrorTypep5	WS:	7	H5	69.66	98.05	00.55	

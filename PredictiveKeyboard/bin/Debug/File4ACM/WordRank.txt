@@ -1,0 +1,29 @@
+﻿
+New Data
+Sno:	Word:	Rank(Size,Key,Rank,errorAt):
+	1	मैं	[7,2,1,0]	
+	2	जाने	[7,1,1,0]	
+	3	कब	[7,1,5,0]	
+
+End Data
+New Data
+Sno:	Word:	Rank(Size,Key,Rank,errorAt):
+	1	मैं	[7,2,1,0]	
+	2	जाने	[7,1,1,0]	
+	3	कब	[7,1,5,0]	
+
+End Data
+New Data
+Sno:	Word:	Rank(Size,Key,Rank,errorAt):
+	1	मैं	[7,2,1,0]	[7,2,1,1]	
+	2	जाने	[7,1,1,0]	[7,1,1,1]	
+	3	कब	[7,1,5,0]	[7,1,5,1]	
+
+End Data
+New Data
+Sno:	Word:	Rank(Size,Key,Rank,errorAt):
+	1	मैं	[7,2,1,0]	[7,2,1,1]	
+	2	जाने	[7,1,1,0]	[7,1,1,1]	[7,1,3,2]	
+	3	कब	[7,1,5,0]	[7,1,5,1]	[7,1,5,2]	
+
+End Data
