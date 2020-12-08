@@ -2,5 +2,6 @@ This repo contains word prediction in Indian language, Hindi in this case. The m
 
 ![title](a1.PNG)
 ![title](a2.PNG)
+![title](a3.PNG)
 
 uncompress the 7zip at "PredictiveKeyboard\bin\Debug\File4ACM\data" place and then run the application
